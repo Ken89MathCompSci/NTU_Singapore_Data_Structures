@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void rReverseAr(int ar[], int size);
+void rReverseAr(int ar[], int size);https://github.com/Ken89MathCompSci/NTU_Singapore_Data_Structures/blob/master/main.c
 
 int main()
 {
